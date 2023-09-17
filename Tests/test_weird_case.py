@@ -1,4 +1,4 @@
-from CodeWars.Weird_Strings.to_weird_case import to_weird_case
+from Codewars.Weird_Strings.to_weird_case import to_weird_case
 
 def test_single_word_small_word():
     assert to_weird_case("Is") == "Is"
